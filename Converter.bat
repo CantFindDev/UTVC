@@ -15,7 +15,7 @@ set "_outputFileName=UnityReadyVideo.webm"
 :MainMenu
 cls
 echo ===========================================
-echo  [1;36mUnity Transparent Video Generator[0m
+echo  [1;36mUnity Transparent Video Converter[0m
 echo  [1;33mDeveloped By CantFind[0m
 echo ===========================================
 echo  [1] [1;32mSetup Folders[0m
@@ -66,7 +66,7 @@ goto MainMenu
 
 :OpenRepository
 cls
-start "" https://github.com/CantFindDev/UnityTransparentVideoGenerator.git
+start "" https://github.com/CantFindDev/UTVC
 goto SocialMenu
 
 :OpenYoutubeVideo
